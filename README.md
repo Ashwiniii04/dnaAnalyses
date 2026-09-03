@@ -65,6 +65,3 @@ genetrace/
 └── README.md
 ```
 
-## License
-
-[MIT](LICENSE) — or replace with the license of your choice before publishing.
