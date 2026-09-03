@@ -1,0 +1,7 @@
+streamlit
+biopython
+numpy
+pandas
+matplotlib
+qrcode
+pillow

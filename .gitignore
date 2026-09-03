@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+env/
+*.egg-info/
+
+# Streamlit
+.streamlit/secrets.toml
+
+# OS / editor
+.DS_Store
+.vscode/
+.idea/
+
+# Downloaded/generated artifacts from the app
+*.png
+!screenshot*.png
+genetrace_*.txt
+genetrace_*.json
+genetrace_*.csv
